@@ -1,7 +1,7 @@
-RottenTomatoes Web Scraping
+Rotten Tomatoes Web Scraping
 ===========================
 
-**Note:** If you already have **Jupyter Notebooks** installed you can view the _Rotten Tomatoes Web Scraping.ipynb_ file there but if not, please click [here](https://colab.research.google.com/github/AvinashBisram/Data-Collection/blob/master/RottenTomatoes%20Web%20Scraping/Rotten%20Tomatoes%20Web%20Scraping.ipynb) to view the project in Google Colaboratory. Thank you!
+**Note:** If you already have **Jupyter Notebooks** installed you can view the _Rotten Tomatoes Web Scraping.ipynb_ file there but if not, please click [here](https://colab.research.google.com/github/AvinashBisram/Data-Collection/blob/master/Rotten%20Tomatoes%20Web%20Scraping/Rotten%20Tomatoes%20Web%20Scraping.ipynb) to view the project in Google Colaboratory. Thank you!
 
 **Description:** This project uses Web Scraping to collect data on 140 movies featured in a [RottenTomatoes article ](https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now/) including their titles, release years, scores, cast members, and more.
 

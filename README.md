@@ -7,7 +7,7 @@ This repository will showcase projects related to data collection such as Web Sc
 
 Current Projects
 ----------------
-* [Rotten Tomatoes Web Scraping](./RottenTomatoes%20Web%20Scraping): Uses Python's Requests and BeautifulSoup modules to collect data on 140 movies featured in a RottenTomatoes article including their titles, release years, scores, cast members, and more.
+* [Rotten Tomatoes Web Scraping](./Rotten%20Tomatoes%20Web%20Scraping): Uses Python's Requests and BeautifulSoup modules to collect data on 140 movies featured in a RottenTomatoes article including their titles, release years, scores, cast members, and more.
 
 Projects Coming Soon
 --------------------
