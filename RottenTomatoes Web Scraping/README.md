@@ -15,7 +15,7 @@ About the Article:
 The article scraped in this project was one published on RottenTomatoes.com titled "140 Essential Action Movies To Watch Now" (a link to the article can be found [here](https://editorial.rottentomatoes.com/guide/140-essential-action-movies-to-watch-now/)).
 
 For each of the 140 movies listed, the article displayed various information about them in the following format:
-<img src="readMe images/RT Movie Entry.png">
+![Example Movie Entry](./readMe%20images/RT%20Movie%20Entry.PNG)
 <br><br>
 
 Collecting the Data:
