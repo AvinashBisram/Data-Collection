@@ -22,8 +22,8 @@ For each of the 140 movies listed, the article displayed various information abo
 
 Collecting the Data:
 ----------------
-Python's **request** module was used to extract the raw HTML code of the web page.  
-The **BeautifulSoup4** module was then used to parse through that HTML code and retrieve the desired information. (The HTML code parsed with the LXML parser can be found [here](./Rotten-Tomatoes-LXML-Parser.html))
+Python's **requests** module was used to extract the raw HTML code of the web page.  
+The **BeautifulSoup** module was then used to parse through that HTML code and retrieve the desired information. (The HTML code parsed with the LXML parser can be found [here](./Rotten-Tomatoes-LXML-Parser.html))
 
 Data collected about each movie include their:
 * Title
