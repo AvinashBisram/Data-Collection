@@ -40,7 +40,7 @@ Collecting the Data:
 Saving the Data:
 ----------------
 I used Python's **Pandas** module to combine the lists of show data into a DataFrame and exported it as a CSV file. You can view the final CSV containing the scraped and cleaned data [here](Scraped_MAL_Data.csv).  
-**Note:** The data collection was performed on 12/25/2021.
+**Note:** The data collection was performed on 12/26/2021.
 
 
 Next Steps:
