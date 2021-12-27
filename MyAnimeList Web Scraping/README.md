@@ -1,7 +1,7 @@
 MyAnimeList Web Scraping
 =======================
 
-**Description:** This project uses Web Scraping to collect data on 90 recorded entries in a MyAnimeList user's "anime list". For each distinct entry listed in the user's profile, this program collects the anime names, user scores, type, progress, and redirect URLs. 
+**Description:** This project uses Web Scraping to collect data on 90+ recorded entries in a MyAnimeList user's "anime list". For each distinct entry listed in the user's profile, this program collects the anime names, user scores, type, progress, and redirect URLs. 
 
 **Language(s):** Python  
 **Package(s):**  Requests-HTML, Numpy, Pandas
