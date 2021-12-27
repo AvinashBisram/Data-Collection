@@ -8,6 +8,11 @@ MyAnimeList Web Scraping
 
 **Motivation:**  This project was created to demonstrate skills in collecting data from a webpage that is primarily generated through JavaScript code and not found in the raw HTML of the page. I also intend on utilizing this data for a larger-scale Machine Learning project in the future.
 
+Viewing the Project
+--------------------
+The main file for this project is located in root of the repository named _[MAL Data Collection (Scraping).ipynb](MAL%20Data%20Collection%20(Scraping).ipynb)_. If you have **Jupyter Notebooks** installed, you can download the .ipynb file and view it there. If not, you can view the project using Google Colaboratory [here](https://colab.research.google.com/github/AvinashBisram/Data-Collection/blob/master/MyAnimeList%20Web%20Scraping/MAL%20Data%20Collection%20(Scraping).ipynb).  
+**Note:** Executing all cells in the main project file will create 1 CSV and 2 HTML files on your computer.
+
 
 What is MyAnimeList?
 ------------------------
