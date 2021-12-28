@@ -9,7 +9,7 @@ Current Projects
 ----------------
 * [Rotten Tomatoes Web Scraping](./Rotten%20Tomatoes%20Web%20Scraping): Uses Python's Requests and BeautifulSoup modules to collect data on 140 movies featured in a RottenTomatoes article including their titles, release years, scores, cast members, and more.
 * [MyAnimeList Web Scraping](./MyAnimeList%20Web%20Scraping): Uses Python's Requests-HTML module to collect data on 90+ shows listed in a MyAnimeList user's anime list including their titles, user scores, status, progress, and more. This data was rendered using JavaScript and could not be scraped with the raw HTML code.
-* [iTunes API Data Collection](./iTunes%20API%20Data%20Collection): Collects data on 200 tracks by The Beatles from the US iTunes store using the iTunes API. Information collected of each track include their artist's names, collection and track names, track ID, respective iTunes URL, track price, and more. Collected data is saved to a CSV file.
+* [iTunes API Data Collection](./iTunes%20API%20Data%20Collection): Uses Python's Requests and JSON modules to collect data on 200 tracks by The Beatles from the iTunes API. Information collected of each track include their artist's names, collection and track names, track ID, respective iTunes URL, track price, and more. Collected data is saved to a CSV file.
 
 Projects Coming Soon
 --------------------
