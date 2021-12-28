@@ -32,7 +32,7 @@ Python's **Requests** module was used to send a GET request to the iTunes API wi
 These parameters were used to search the US iTunes store for up to 200 songs by The Beatles.
 <br><br>
 Python's **json** module was used to retrieve the data sent by the API. Each of the 200 results shared a similar structure:  
-![Example iTunes API result structure](./readMe%20images/Example%20Result%20Structure.png)  
+![Example iTunes API Result Structure](./readMe%20images/Example%20Result%20Structure.PNG)  
 
 A subset of this information (8 fields) was collected for each result including:
 * artistName,
