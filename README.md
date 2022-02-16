@@ -2,6 +2,7 @@ Data Collection Projects
 ========================
 
 This repository contains projects related to data collection including Web Scraping and using APIs.  
+<br>
 **Language(s):** (Primary) Python, (Secondary) JavaScript, HTML, CSS  
 **Package(s):** (Python) Requests, BeautifulSoup4, Requests-HTML, Json  
 **Software:** Jupyter Notebooks
